@@ -42,3 +42,6 @@ print(f"Customer Name: {customerName}")
 print(f"Item Price: ${itemPrice}")
 print(f"Quantity: {quantity}")
 print(f"Total Cost: ${roundedCost}")
+
+#This is my additional code i've written
+print("We all live in a yellow submarine")
